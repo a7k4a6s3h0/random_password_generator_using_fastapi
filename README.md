@@ -9,7 +9,9 @@ The project is designed to make a password generator, a modern web framework for
 
 - Users can generate highly secure passwords
 
-
+## Technologies Used
+- FastAPI: A modern web framework for building APIs with Python 3.7+ based on standard Python type hints.
+- Python Modules: The project utilizes Python's string and random modules for generating random passwords.
 
 
 ## Installation
@@ -24,7 +26,7 @@ Open your terminal and execute the following command to clone the project reposi
 2) Then access to the Project Directory using cd command
 
 ```bash
-cd your_project_directory_name
+cd random_password_generator_using_fastapi
 ```
 3) Install dependencies
 
